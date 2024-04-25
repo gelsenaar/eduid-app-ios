@@ -143,7 +143,7 @@ existing registration
 "NameUpdated.Title.ContactedError.COPY" = "could not be contacted";
 "NameUpdated.Title.FailReason.AlreadyLinked.COPY" = "Reason: The account is already linked: %1$@";
 "NameUpdated.Title.FailReason.SessionExpired.COPY" = "Reason: Your session expired.";
-"NameUpdated.Description.COPY" = "The following information has been added to your eduID and can now be shared.!";
+"NameUpdated.Description.COPY" = "The following information has been added to your eduID and can now be shared.";
 "NameUpdated.FullName.COPY" = "Full name";
 "NameUpdated.Continue.COPY" = "Continue";
 "EditName.Title.Edit.COPY" = "Edit";
@@ -176,16 +176,16 @@ When you re-register for a new eduID with that same email address, you will rece
 "MyAccount.DownloadSuccess.COPY" = "Your data was downloaded in your downloads folder.";
 "MyAccount.DownloadError.COPY" = "Failed to download your data";
 "Security.Title.COPY" = "Security settings";
-"Security.SubTitle.COPY" = "How you sign in with eduID";
-"Security.OtherMethods.COPY" = "Other methods";
+"Security.SubTitle.COPY" = "We provide different methods to sign in using your eduID account.";
+"Security.SecondSubTitle.COPY" = "Sign-in methods";
 "Security.AddPassword.COPY" = "Add a password";
 "Security.PasswordPlaceholder.COPY" = "• • • • • • • • • •";
-"Security.ChangePassword.COPY" = "Password";
-"Security.TwoFAKey.COPY" = "Security key";
+"Security.ChangePassword.COPY" = "Change your password";
+"Security.TwoFAKey.COPY" = "2FA key";
 "Security.ProvidedBy.COPY" = "Provided by";
 "Security.NotAddedYet.COPY" = "Not added to your eduID yet";
 "Security.NotSupported.COPY" = "Not supported";
-"Security.UseMagicLink.COPY" = "Magic link email";
+"Security.UseMagicLink.COPY" = "Send a magic link to";
 "Security.AddSecurityKeyInfo.COPY" = "You can add security keys to your eduID account which can be used to login. You can use, for example, the built-in sensor of your device (TouchID, FaceID) or a separate hardware key (YubiKey).";
 "Security.RememberMeInfo.COPY" = "<strong>Your device is currently remembered. You will be automatically logged in to eduID.</strong>";
 "Security.NoRememberMeInfo.COPY" = "When logging in with your eduID, you can choose to <strong>stay logged in</strong>. This remembers your login on the device you use at that moment.";
@@ -719,7 +719,9 @@ Would you like to deactivate existing enrollment to enroll on this device?
 "CreateEduID.FirstTimeDialog.AddInformationBoldPart.COPY" = "Add this information";
 "CreateEduID.FirstTimeDialog.SkipButtonTitle.COPY" = "Skip this";
 "CreateEduID.Explanation.MainTitleLabel.COPY" = "Don't have an eduID yet?";
-"CreateEduID.Explanation.MainExplanationText.COPY" = "eduID is a central account for users associated with Dutch education and research. It is yours and exists independent of an educational institution.
+"CreateEduID.Explanation.MainExplanationText.COPY" = "eduID is a central account for users
+associated with Dutch education and research. It is yours and exists independent
+of an educational institution.
 
 • Use it to login to several services connected to SURFconext.
 • Users without an institution account can also request an eduID.
